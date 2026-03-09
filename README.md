@@ -1,3 +1,10 @@
-# cicd
+# CI/CD Pipeline Demo
 
-This repository is made with the purpose of demonstrating how CI/CD piplines function using GitHub Actions. The demo proves the completion of Cloud Architectures Lab 2.
+This repository demonstrates **CI/CD pipelines** using **GitHub Actions**.
+
+## Purpose
+
+Created for the **Cloud Architectures Lab 2** assignment to showcase:
+- Automated workflows
+- Continuous Integration & Deployment
+- GitHub Actions best practices
